@@ -1,1 +1,24 @@
+What I Learned in Class About EC2
 
+1.Creating an EC2 Instance (Virtual Machine)
+
+I learned how to create an EC2 instance in AWS by choosing:
+The operating system (Linux or Windows)
+Instance type based on CPU and memory needs
+Storage size and type
+Key pair for secure login
+Security group to allow network access
+
+2. Connecting EC2 to My Local Device
+
+I learned how to connect my EC2 instance to my local computer using:
+Terminal/CLI with SSH for Linux instances
+.pem key file for authentication
+Public IP address of the instance
+
+3. Operating Systems: CLI and GUI
+
+I learned about different operating systems used in EC2:
+Linux (CLI-based) – commonly used in cloud environments
+Windows (GUI-based) – used when graphical interface is needed
+Red Hat Linux is widely preferred in enterprises because it offers paid customer support and certifications
