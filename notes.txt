@@ -1,1 +1,13 @@
+Instancs of EC2
+Elastic Compute Cloud and it is also virtual cloud machine
+As we are renting the computer from Cloud, We required the specific requirments to choose
+1. OS (Operating System) : Linux, Red Hat, Windows, Fedora, Etc.
+2. CPU:RAM,(Size of the Memory)
+3.Storage: we can choose as per the application how muc hwe required the GIB and we have calculate it
+Key Pair also we will select to secure the instance
+Network: As per the Private and public IP : there are two types IPV4 and IPV8
+There are two IP's : Inbound IP and outbound IP
+Security Group: The company need to download the firewal to protect the machines from hackers
+Most of the companies will use the EC2 instance for the application development in the companies.
+.
 
