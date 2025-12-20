@@ -1,1 +1,12 @@
-
+EC2 Instances
+Elastic Compute Cloud  and it is also virtaula cloud machine
+If we rent the computer from the cloud, we require some specifications to select
+1. OS (Operating System): Linux, Windows, Fedora,Ubuntu ,Debian, RHEL Red hat etc.
+2. CPU- RAM, (size of the Memory)
+3. Storage: we can choose how much it is required for the customer and calculate it.
+4. key pair - Secure the Instances
+5. Network: private and public IP and outbound IP
+ex: Public means given to organization. It is called as internet.
+private means given to Employers. It is called as intranet.
+Security Group: The company uses to protect the machines from hackers so they need firewall. So, it is called as Security group.
+Most of the companies use EC2 instances for the application development in the companies.
