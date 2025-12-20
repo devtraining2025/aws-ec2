@@ -1,1 +1,21 @@
+1. We learned about different types of operating systems such as Windows, macOS, and Linux.
 
+2. We studied different Linux distributions and their uses.
+
+3. We learned about public keys and private keys and how they are used for secure authentication.
+
+4. We learned how to create an AWS account and understood the basics of cloud computing.
+
+5. We studied EBS (Elastic Block Store) and its purpose in AWS.
+
+6. We learned about different transmission speeds of storage, memory, and other hardware components.
+
+7. We learned about networking in AWS and Linux environments.
+
+8. We studied IP addressing, including IPv4, which uses a 32-bit address.
+
+9. We learned how IP addresses are used to connect devices in a network.
+
+10. We learned about IP address classifications.
+
+11. We studied firewalls and understood how they work to protect systems and networks.
